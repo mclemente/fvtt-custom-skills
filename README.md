@@ -13,8 +13,7 @@ You'll need to edit `skills.js` and the `lang/en.json` files. and edit the `skil
 
 On `skills.js`, add the skills you want like the following:
 
-```
-js
+```js
 export const skills = {
 	cul: {
 		value: 0,
@@ -25,8 +24,7 @@ export const skills = {
 
 Then, on `lang/en.json`, and add the key you just added like this:
 
-```
-json
+```json
 "custom-skills": {
 	"cul": "Culture"
 }
